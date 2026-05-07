@@ -58,7 +58,7 @@ RNR-Na-Sodium-Study/
 ├── README.md
 │
 ├── report/
-│   └── Rapport_Fortil.pdf          # Full study report (French)
+│   └── Report.pdf          # Full study report (French)
 │
 ├── notebooks/
 │   ├── RNR Na - Keff(bu).ipynb     # k-eff vs burnup analysis
@@ -73,12 +73,12 @@ RNR-Na-Sodium-Study/
 │   └── plots.xml
 │
 ├── results/
-│   ├── spectre_neutronique_0.png
-│   ├── spectre_neutronique_25.png
-│   ├── spectre_neutronique_50.png
-│   ├── spectre_neutronique_75.png
-│   ├── spectre_neutronique_100.png
-│   ├── impact_temperature_sodium.png
+│   ├── neutronic spectrum_0.png
+│   ├── neutronic spectrum_25.png
+│   ├── neutronic spectrum_50.png
+│   ├── neutronic spectrum_75.png
+│   ├── neutronic spectrum_100.png
+│   ├── temperature impact.png
 │   └── Assembly.png
 │
 └── data/
