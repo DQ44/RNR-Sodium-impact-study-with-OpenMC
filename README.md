@@ -34,6 +34,9 @@ The central question of this study is:
 
 The simulation models a **complete hexagonal MOX fuel assembly** with reflective boundary conditions (infinite geometry along the z-axis), representative of a Superphénix-type SFR core.
 
+<img width="400" height="291" alt="Picture 1" src="https://github.com/user-attachments/assets/1bc8d495-ab39-42c7-821f-33abff33aaba" />
+
+
 | Parameter              | Value                        |
 |------------------------|------------------------------|
 | Assembly pitch         | 23.6 cm                      |
